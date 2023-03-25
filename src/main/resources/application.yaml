@@ -1,0 +1,10 @@
+spring:
+    datasource:
+        url: jdbc:h2:mem:discordMetrics
+        username: discordMetrics
+        password: discordMetrics
+        driverClassName: org.h2.Driver
+    jpa:
+        spring.jpa.database-platform: org.hibernate.dialect.H2Dialect
+discord:
+    apiKey: ""
