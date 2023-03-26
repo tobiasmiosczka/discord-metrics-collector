@@ -51,7 +51,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.github.tobiasmiosczka.dicebot.Main</mainClass>
+							<mainClass>com.github.tobiasmiosczka.discordmetricscollector.DiscordMetricsCollectorApplication</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
