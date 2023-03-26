@@ -1,8 +1,8 @@
 spring:
     datasource:
-        url: jdbc:h2:mem:discordMetrics
-        username: discordMetrics
-        password: discordMetrics
+        url: ""
+        username: ""
+        password: ""
         driverClassName: org.postgresql.Driver
     jpa:
         spring.jpa.database-platform:  org.hibernate.dialect.PostgreSQLDialect
